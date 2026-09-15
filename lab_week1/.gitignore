@@ -1,0 +1,4 @@
+# CMake / Ninja build output.
+# Never distribute this directory: CMakeCache.txt bakes in absolute paths from
+# the machine that configured it, so it breaks builds on any other PC.
+build/
