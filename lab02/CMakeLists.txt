@@ -23,7 +23,7 @@ set(PICO_BOARD pico CACHE STRING "Board type")
 
 include(pico_sdk_import.cmake)
 
-project(lab_week2 C CXX ASM)
+project(lab02 C CXX ASM)
 
 pico_sdk_init()
 
