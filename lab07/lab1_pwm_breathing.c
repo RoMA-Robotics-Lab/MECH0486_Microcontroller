@@ -1,5 +1,5 @@
 // Fade an LED using hardware PWM.
-// LED: GP2 through a series resistor to GND.
+// Onboard LED: GP25 (Pico / Pico 2, non-W).
 
 #include "pico/stdlib.h"
 #include "hardware/pwm.h"
